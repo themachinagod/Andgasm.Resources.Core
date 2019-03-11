@@ -2,6 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Version>0.0.1</Version>
+    <Authors>Danny Brown</Authors>
+    <Company>Andgasm Software Solutions</Company>
+    <Description>The Andgasm.Resources.Core library provides support classes for API resources;
+FilterAttributes
+LinkInfo
+OperationStatus
+FieldStatus</Description>
+    <Copyright>Andgasm Software Solutions</Copyright>
+    <RepositoryUrl>https://github.com/themachinagod/Andgasm.Resources.Core</RepositoryUrl>
+    <PackageTags>AspNetCore, API, Filter, Attribute, Resource, OpStatus, FieldStatus, LinkInfo</PackageTags>
+    <PackageReleaseNotes>Draft release - initial drop</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
